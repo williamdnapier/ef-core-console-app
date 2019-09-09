@@ -1,2 +1,2 @@
-# proj-ef-core-mvc
-proj-ef-core-mvc
+# proj-ef-core
+proj-ef-core
