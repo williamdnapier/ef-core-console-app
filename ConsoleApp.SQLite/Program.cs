@@ -6,7 +6,19 @@ namespace ConsoleApp.SQLite
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            using (var db = new StoreContext())
+            {
+                db.Stores.Add(new Store { Url = "http://williamdnapier.github.io"});
+                var count = db.SaveChanges();
+                Console.WriteLine("{0} records saved to the database", count);
+
+                Console.WriteLine();
+                Console.WriteLine("All stores in database:");
+                foreach(var store in db.Stores)
+                {
+                    Console.WriteLine(" - {0}", store.Url);
+                }
+            }
         }
     }
 }

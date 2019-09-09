@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\g\\proj-ef-core-mvc\\ConsoleApp.SQLite\\ConsoleApp.SQLite.csproj": {}
+    "C:\\g\\proj-ef-core-mvc\\ConsoleApp.SQLite\\ConsoleApp.SQLite.csproj": {}
   },
   "projects": {
-    "c:\\g\\proj-ef-core-mvc\\ConsoleApp.SQLite\\ConsoleApp.SQLite.csproj": {
+    "C:\\g\\proj-ef-core-mvc\\ConsoleApp.SQLite\\ConsoleApp.SQLite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\g\\proj-ef-core-mvc\\ConsoleApp.SQLite\\ConsoleApp.SQLite.csproj",
+        "projectUniqueName": "C:\\g\\proj-ef-core-mvc\\ConsoleApp.SQLite\\ConsoleApp.SQLite.csproj",
         "projectName": "ConsoleApp.SQLite",
-        "projectPath": "c:\\g\\proj-ef-core-mvc\\ConsoleApp.SQLite\\ConsoleApp.SQLite.csproj",
+        "projectPath": "C:\\g\\proj-ef-core-mvc\\ConsoleApp.SQLite\\ConsoleApp.SQLite.csproj",
         "packagesPath": "C:\\Users\\bill.napier\\.nuget\\packages\\",
-        "outputPath": "c:\\g\\proj-ef-core-mvc\\ConsoleApp.SQLite\\obj\\",
+        "outputPath": "C:\\g\\proj-ef-core-mvc\\ConsoleApp.SQLite\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

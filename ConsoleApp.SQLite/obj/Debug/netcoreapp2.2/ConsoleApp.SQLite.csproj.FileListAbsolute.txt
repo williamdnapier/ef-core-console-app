@@ -1,0 +1,11 @@
+C:\g\proj-ef-core-mvc\ConsoleApp.SQLite\bin\Debug\netcoreapp2.2\ConsoleApp.SQLite.deps.json
+C:\g\proj-ef-core-mvc\ConsoleApp.SQLite\bin\Debug\netcoreapp2.2\ConsoleApp.SQLite.runtimeconfig.json
+C:\g\proj-ef-core-mvc\ConsoleApp.SQLite\bin\Debug\netcoreapp2.2\ConsoleApp.SQLite.runtimeconfig.dev.json
+C:\g\proj-ef-core-mvc\ConsoleApp.SQLite\bin\Debug\netcoreapp2.2\ConsoleApp.SQLite.dll
+C:\g\proj-ef-core-mvc\ConsoleApp.SQLite\bin\Debug\netcoreapp2.2\ConsoleApp.SQLite.pdb
+C:\g\proj-ef-core-mvc\ConsoleApp.SQLite\obj\Debug\netcoreapp2.2\ConsoleApp.SQLite.csprojAssemblyReference.cache
+C:\g\proj-ef-core-mvc\ConsoleApp.SQLite\obj\Debug\netcoreapp2.2\ConsoleApp.SQLite.csproj.CoreCompileInputs.cache
+C:\g\proj-ef-core-mvc\ConsoleApp.SQLite\obj\Debug\netcoreapp2.2\ConsoleApp.SQLite.AssemblyInfoInputs.cache
+C:\g\proj-ef-core-mvc\ConsoleApp.SQLite\obj\Debug\netcoreapp2.2\ConsoleApp.SQLite.AssemblyInfo.cs
+C:\g\proj-ef-core-mvc\ConsoleApp.SQLite\obj\Debug\netcoreapp2.2\ConsoleApp.SQLite.dll
+C:\g\proj-ef-core-mvc\ConsoleApp.SQLite\obj\Debug\netcoreapp2.2\ConsoleApp.SQLite.pdb
